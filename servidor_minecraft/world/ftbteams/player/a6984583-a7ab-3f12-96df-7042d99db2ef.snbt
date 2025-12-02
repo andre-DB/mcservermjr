@@ -1,0 +1,17 @@
+{
+	id: "a6984583-a7ab-3f12-96df-7042d99db2ef"
+	type: "player"
+	player_name: "marx84789"
+	ranks: {
+		a6984583-a7ab-3f12-96df-7042d99db2ef: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "marx84789"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "088e63f7-2470-3149-9969-d09ec93dc472"
+	type: "player"
+	player_name: "MrAgic_YT"
+	ranks: {
+		088e63f7-2470-3149-9969-d09ec93dc472: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MrAgic_YT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#596FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

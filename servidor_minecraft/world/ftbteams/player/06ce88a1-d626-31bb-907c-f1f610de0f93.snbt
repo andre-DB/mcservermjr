@@ -1,0 +1,15 @@
+{
+	id: "06ce88a1-d626-31bb-907c-f1f610de0f93"
+	type: "player"
+	player_name: "jonin"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "jonin"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
